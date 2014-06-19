@@ -7,3 +7,8 @@ For creating Lift web project, we need only 5 small files.
 5.  src/main/scala/bootstrap/liftweb/Boot.scala
 
 Note : All file names are given relative to the project root directory
+
+6. Tu run project : sbt ~container:start
+7. To browse application : http://localhost:8080/
+
+
