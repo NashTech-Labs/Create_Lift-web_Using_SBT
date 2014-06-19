@@ -6,7 +6,7 @@ version := "0.1-SNAPSHOT"
 
 scalaVersion := "2.10.0"
 
-seq(com.github.siasia.WebPlugin.webSettings :_*)
+seq(webSettings :_*)
 
 libraryDependencies ++= {
 val liftVersion = "2.6-M2"
